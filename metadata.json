@@ -1,0 +1,5 @@
+{
+  "name": "MedSeg Viewer",
+  "description": "A client-side viewer for medical image instance segmentation using COCO JSON annotations. Features RLE decoding and dynamic file matching.",
+  "requestFramePermissions": []
+}
